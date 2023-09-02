@@ -1,6 +1,6 @@
 # Modern UI/UX GPT-3
 
-### [Live Site](https://gpt3-jsm.com/)
+### [Live Site](https://superlative-sawine-b2d553.netlify.app/)
 
 ![Modern UI/UX GPT-3](https://i.ibb.co/TR5LW9z/image.png)
 
